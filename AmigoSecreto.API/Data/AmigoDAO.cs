@@ -10,6 +10,7 @@ public class AmigoDAO : IAmigoDAO
         //implementar logica para buscar um registro no arquivo com o mesmo id.
         throw new NotImplementedException();
     }
+    
     public IEnumerable<Amigo> GetAll()
     {
         //implementar logica para buscar todas os registros.
