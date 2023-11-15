@@ -10,7 +10,7 @@ namespace AmigoSecreto.API.Controllers
     {
         private readonly IAmigoService _service;
 
-        public AmigoController(AmigoService amigoService)
+        public AmigoController(IAmigoService amigoService)
             => _service = amigoService;
         
         [HttpGet("/v1/buscar-todos")]
@@ -34,10 +34,10 @@ namespace AmigoSecreto.API.Controllers
             var amigo = new Amigo(model.Name, model.Email);
             var result = _service.Save(amigo);
             
-            if(result is null)
+            if(!result)
                 return BadRequest("ACS1 - Erro ao salvar registro.");    
 
-            return Created($"/v1/buscar-amigo/{result.Id}", result);
+            return Created($"v1/buscar-amigo/{amigo.Id}", result);
         }
     }
 }
