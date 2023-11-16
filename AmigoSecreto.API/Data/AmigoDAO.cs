@@ -6,18 +6,10 @@ namespace AmigoSecreto.API.Data;
 
 public class AmigoDAO : IAmigoDAO 
 {        
-<<<<<<< HEAD
-    public Amigo GetById(string id)
-    {
-        //implementar logica para buscar um registro no arquivo com o mesmo id.
-        throw new NotImplementedException();
-    }
-    
-=======
+
     public Amigo? GetById(string id)
         => GetAll().Where(amg => amg.Id?.ToString().ToUpper() == id.ToUpper()).FirstOrDefault();
 
->>>>>>> 5677f1a16b3d599589a96e395e9503d215a1ee52
     public IEnumerable<Amigo> GetAll()
     {
         var amigos = new List<Amigo>();  
