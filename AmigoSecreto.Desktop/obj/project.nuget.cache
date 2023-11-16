@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXm298c0AKJ8KOXeC7MTz4Rwm7dj1/hrYnlquo5rUfIRADCpeZWIHIrgYnJIwv8dQinhDNyKAdKfb0q94U91Tw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Desktop\\AmigoSecreto.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
