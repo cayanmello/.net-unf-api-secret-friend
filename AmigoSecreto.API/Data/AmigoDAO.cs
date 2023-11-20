@@ -6,6 +6,7 @@ namespace AmigoSecreto.API.Data;
 
 public class AmigoDAO : IAmigoDAO 
 {        
+
     public Amigo? GetById(string id)
         => GetAll().Where(amg => amg.Id?.ToString().ToUpper() == id.ToUpper()).FirstOrDefault();
 

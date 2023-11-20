@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\AmigoSecreto.API",
-    "\\AmigoSecreto.API\\Controllers"
+    "\\AmigoSecreto.API\\Controllers",
+    "\\AmigoSecreto.Web",
+    "\\AmigoSecreto.Web\\Views",
+    "\\AmigoSecreto.Web\\Views\\Home"
   ],
-  "SelectedNode": "\\AmigoSecreto.API\\Controllers\\AmigoController.cs",
+  "SelectedNode": "\\AmigoSecreto.Web\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

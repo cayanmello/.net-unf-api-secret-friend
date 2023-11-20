@@ -16,7 +16,11 @@ namespace AmigoSecreto.API.Controllers
         [HttpGet("/v1/buscar-todos")]
         public IActionResult BuscarTodosOsAmigos()
             => Ok(_service.GetAll());
-            
+
+        [HttpGet("/v1/email-existe/{email}")]
+        public IActionResult EmailExiste([FromRoute] string email)
+            => Ok(_service.GetAll().Any(amigo => amigo.Email == email));
+
         [HttpGet("v1/buscar-amigo/{id}")]
         public IActionResult Index([FromRoute] string id)
         {

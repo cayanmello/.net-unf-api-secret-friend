@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "js/QBTcIhz1F5m6DF1Soxe+rNo17NEXSt1DBGqj/WyjPmgHsUseyYBnJTuYUf+4SqGf+6JrYnv8nSXUs/Gceow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\AmigoSecreto.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cayan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
