@@ -14,9 +14,8 @@ public class AmigoService : IAmigoService
         => _dao.GetAll();
 
     public Amigo GetById(string id)
-        =>  _dao.GetById(id);    
+        =>  _dao.GetById(id);
 
     public bool Save(Amigo amigo)
         => _dao.Save(amigo);
-
 }
