@@ -1,6 +1,5 @@
 ﻿using AmigoSecreto.API.Models;
 using Microsoft.AspNetCore.Mvc;
-using AmigoSecreto.API.Services;
 using AmigoSecreto.API.ViewModels;
 using AmigoSecreto.API.Services.Interfaces;
 
@@ -9,9 +8,13 @@ namespace AmigoSecreto.API.Controllers
     public class AmigoController : ControllerBase
     {
         private readonly IAmigoService _service;
+        private readonly IParService _parService;
 
-        public AmigoController(IAmigoService amigoService)
-            => _service = amigoService;
+        public AmigoController(IAmigoService amigoService, IParService parService)
+        {
+          _service = amigoService;
+          _parService = parService;
+        } 
         
         [HttpGet("/v1/buscar-todos")]
         public IActionResult BuscarTodosOsAmigos()
@@ -22,7 +25,7 @@ namespace AmigoSecreto.API.Controllers
             => Ok(_service.GetAll().Any(amigo => amigo.Email == email));
 
         [HttpGet("v1/buscar-amigo/{id}")]
-        public IActionResult Index([FromRoute] string id)
+        public IActionResult GetAmigoById([FromRoute] string id)
         {
             var amigo = _service.GetById(id);
             return amigo is not null ? 
@@ -41,7 +44,62 @@ namespace AmigoSecreto.API.Controllers
             if(!result)
                 return BadRequest("ACS1 - Erro ao salvar registro.");    
 
-            return Created($"v1/buscar-amigo/{amigo.Id}", result);
+            return Created($"/v1/buscar-amigo/{amigo.Id}", result);
+        }
+        [HttpDelete("/v1/excluir/{id}")]
+        public IActionResult Excluir([FromRoute] string id)
+        {            
+            if(id is null)
+                return BadRequest($"5PX3 - Identificador inválido.");
+
+            var idGuid = Guid.Parse(id);
+            _service.Delete(idGuid);
+            return NoContent();
+        }
+
+        [HttpPut("/v1/atualizar")]
+        public IActionResult Atualizar([FromBody] UpdateAmigoViewModel amigo) 
+        {
+            if(!ModelState.IsValid)
+                return BadRequest("Os dados enviados são inválidos.");
+
+            _service.Update(amigo.ToEntity());
+
+            return NoContent();
+        }
+
+        [HttpGet("/v1/buscar-pares")]
+        public IActionResult BuscarPares()
+            => Ok(_parService.GetAll());
+        
+        [HttpGet("/v1/buscar-par/{id}")]
+        public IActionResult GetParById([FromRoute] string id)
+        {
+            if(id is null)
+                return BadRequest("A identificação informada é inválida.");
+
+            try 
+            {
+                var dupla = _parService.GetById(Guid.Parse(id));
+                return Ok(dupla);
+
+            } catch 
+            {
+                return BadRequest($"PX52R - A identificação informada é inválida {id}.\nRequest ID: " + Request.Headers.RequestId);
+            }            
+        }
+        [HttpPost("/v1/gerar-pares")]
+        public IActionResult GerarPares([FromBody] string flag) 
+        {
+            if((flag is null) || (flag != Configuration.GetFlag()))
+                return Unauthorized("Contate um administrador.");
+            
+            var result = _parService.GerarPares();
+           
+            if(!result)
+                return BadRequest("Número de participantes insuficientes ou impar.");
+
+            return Ok(result);
         }
     }
 }

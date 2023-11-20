@@ -34,4 +34,7 @@ void ConfiguresServices(WebApplicationBuilder builder)
 {
     builder.Services.AddSingleton<IAmigoDAO, AmigoDAO>();
     builder.Services.AddScoped<IAmigoService, AmigoService>();
+    
+    builder.Services.AddScoped<IParDAO, ParDAO>();
+    builder.Services.AddScoped<IParService, ParService>();
 }

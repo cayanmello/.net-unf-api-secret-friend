@@ -6,4 +6,6 @@ public interface IAmigoDAO {
     public IEnumerable<Amigo>GetAll();
     public Amigo GetById(string id);
     public bool Save(Amigo amigo);
+    public bool Delete(Guid id);
+    public void Update(Amigo amigoIn);
 }
