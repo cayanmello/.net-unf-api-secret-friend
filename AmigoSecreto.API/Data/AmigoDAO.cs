@@ -54,4 +54,46 @@ public class AmigoDAO : IAmigoDAO
             return false;
         }
     }
+
+    public bool Delete(Guid id) {
+        
+        var amigos = GetAll().ToList();
+
+        var amigoSelecionado = amigos.FirstOrDefault(item => item.Id == id);
+        if(amigoSelecionado is null)
+            return false;
+
+        amigos.Remove(amigoSelecionado);
+        SaveMany(amigos);
+        return true;
+    }
+    public void Update(Amigo amigoIn) {
+
+        var amigos = GetAll().ToList();
+
+        var amigoSelecionado = amigos.FirstOrDefault(item => item.Id == amigoIn.Id);
+
+        if(amigoSelecionado is null)
+            return;
+        
+        amigoSelecionado.Update(amigoIn);
+        
+        SaveMany(amigos);
+    }
+
+    private void SaveMany(List<Amigo> amigos)
+    {
+        try 
+        {
+            var sw = new StreamWriter(Configuration.GetAmigoFilePath(), append : false, Encoding.UTF8);            
+            foreach(var amigo in amigos)
+                sw.WriteLine(amigo.ToCsv()); 
+
+            sw.Close();
+        } 
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);;
+        }
+    }
 }

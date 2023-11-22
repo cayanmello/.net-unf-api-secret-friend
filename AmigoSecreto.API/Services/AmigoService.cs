@@ -9,7 +9,10 @@ public class AmigoService : IAmigoService
     private readonly IAmigoDAO _dao;
     public AmigoService(IAmigoDAO dao)
         =>  _dao = dao;
-    
+
+    public bool Delete(Guid id)
+        => _dao.Delete(id);
+
     public IEnumerable<Amigo> GetAll()
         => _dao.GetAll();
 
@@ -18,4 +21,13 @@ public class AmigoService : IAmigoService
 
     public bool Save(Amigo amigo)
         => _dao.Save(amigo);
+
+    public bool Update(Amigo amigo)
+    {
+        if(!amigo.IsValid())
+            return false;
+        
+        _dao.Update(amigo);
+        return true;
+    }
 }

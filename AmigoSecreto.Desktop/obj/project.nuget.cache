@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YhIcQsUagkKC9af12oEp9/mEXi80OsfggowrPRi23AfQwCzoer+G20bCJ2JkWm6t6WougfD7w+vg10/Uxc9Cgw==",
+  "dgSpecHash": "sOcvmgUUPeUBljcEO6BLmSty6y+AWoy9kZnqSnAIo6avcnXaVcru3gGpNWe+bFB8f/9FCcAXtc9O+sZJPITDTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Desktop\\AmigoSecreto.Desktop.csproj",
+  "projectFilePath": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Desktop\\AmigoSecreto.Desktop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cayan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\conta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

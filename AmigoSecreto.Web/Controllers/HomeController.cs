@@ -66,5 +66,10 @@ namespace AmigoSecreto.Web.Controllers
             }
 
         }
+    
+        [HttpGet]
+        public IActionResult Pares(){
+            return View("Pares");
+        }
     }
 }
