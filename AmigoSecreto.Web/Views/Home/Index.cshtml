@@ -1,88 +1,9 @@
-﻿@model AmigoSecreto.Web.ViewModels.HomeViewModel;
-@using AmigoSecreto.Web.ViewModels;
-@{
+﻿@{
     ViewData["Title"] = "Home";
 }
-
-<div class="container">
-
-    @{
-        if(Model.Feedback is not null)
-        {
-            if(Model.Feedback.Tipo == Tipo.Error)
-            {
-                <div class="alert alert-danger text-center" role="alert">
-                    @Model.Feedback.Message
-                </div>
-            }
-            if (Model.Feedback.Tipo == Tipo.Success)
-            {
-                <div class="alert alert-success text-center" role="alert">
-                    @Model.Feedback.Message
-                </div>
-            }
-            if (Model.Feedback.Tipo == Tipo.Info)
-            {
-                <div class="alert alert-info text-center" role="alert">
-                    @Model.Feedback.Message
-                </div>
-            }
-        }
+<style>
+    h1 {
+        height: 500px;
     }
-
-    <section class="box-summary d-flex flex-column text-center align-items-center gap-2 w-lg-50">
-        <h1>
-            Amigo secreto Academia .NET
-        </h1>
-        <p>Este é um projeto onde estamos colocando em prática os conhecimentos adquiridos na academia .NET.</p>
-        <button class="btn btn-success" style="width:120px;" data-bs-toggle="modal" data-bs-target="#exampleModal">Participar</button>
-
-    </section>
-    <section class="box-amigos-cadastrados d-flex flex-column text-center mt-5 gap-3">
-        <h1>Pessoas cadastradas neste dispositivo</h1>
-        <table class="table table-striped">
-            <thead>
-                <tr>
-                    <th scope="col">Name</th>
-                    <th scope="col">Email</th>
-                    <th scope="col">Registrado Em</th>                    
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var amigo in Model.Amigos)
-                {
-                    <tr>
-                        <td>@amigo.Name</td>
-                        <td>@amigo.Email</td>
-                        <td>@amigo.RegistradoEm</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </section>
-</div>
-
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <form class="modal-dialog modal-dialog-centered" asp-action="NovoAmigo" asp-controller="Home">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">Cadastrar amigo</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Nome completo</label>
-                    <input type="text" class="form-control" name="Name" id="exampleFormControlInput1" placeholder="Nome completo">
-                </div>
-                <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Email</label>
-                    <input type="email" class="form-control" name="Email" id="exampleFormControlInput1" placeholder="academia.net@amigosecreto.com.br">
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                <button type="submit" class="btn btn-success">Cadastrar</button>
-            </div>
-        </div>
-    </form>
-</div>
+</style>
+<h1>ESTÁ É</h1>

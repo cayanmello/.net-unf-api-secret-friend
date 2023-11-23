@@ -42,6 +42,7 @@
             inParam = new TextBox();
             label5 = new Label();
             btnBuscarAmigo = new Button();
+            Select = new DataGridViewCheckBoxColumn();
             ((System.ComponentModel.ISupportInitialize)listaAmigosView).BeginInit();
             SuspendLayout();
             // 
@@ -50,6 +51,7 @@
             listaAmigosView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             listaAmigosView.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllHeaders;
             listaAmigosView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            listaAmigosView.Columns.AddRange(new DataGridViewColumn[] { Select });
             listaAmigosView.Location = new Point(13, 317);
             listaAmigosView.Name = "listaAmigosView";
             listaAmigosView.RowTemplate.Height = 25;
@@ -181,6 +183,11 @@
             btnBuscarAmigo.UseVisualStyleBackColor = true;
             btnBuscarAmigo.Click += btnBuscarAmigo_Click;
             // 
+            // Select
+            // 
+            Select.HeaderText = "Select";
+            Select.Name = "Select";
+            // 
             // AmigoSecretoHome
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -227,5 +234,6 @@
         private Button btnExcluirTodos;
         private TextBox inParam;
         private Label label5;
+        private DataGridViewCheckBoxColumn Select;
     }
 }

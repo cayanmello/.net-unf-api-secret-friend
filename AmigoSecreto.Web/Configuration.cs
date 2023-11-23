@@ -3,6 +3,6 @@
     public class Configuration
     {
         public static string GetApiUrl()
-            => "http://localhost:8081";
+            => "https://amigosecretoapi20231122132107.azurewebsites.net";
     }
 }

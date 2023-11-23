@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "h/RmGS4kIUv5gpO5iz2Dwdbw424qxgPIQkYYeHpsZS8=",
-=======
-  "Hash": "kQvPI1uuPrcjuRj1DN54kySUy75XAvCWlufbxKlvymU=",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
+  "Hash": "lgJC9lxWPUMqbAQr18oiDPDf8vsjMyeKCj1X/QUSIiM=",
   "Source": "AmigoSecreto.Web",
   "BasePath": "_content/AmigoSecreto.Web",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "AmigoSecreto.Web\\wwwroot",
       "Source": "AmigoSecreto.Web",
-<<<<<<< HEAD
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AmigoSecreto.Web.styles.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AmigoSecreto.Web.styles.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "AmigoSecreto.Web.styles.css",
       "AssetKind": "All",
@@ -46,7 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AmigoSecreto.Web.styles.css"
     },
     {
@@ -54,15 +38,6 @@
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AmigoSecreto.Web.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AmigoSecreto.Web.bundle.scp.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "AmigoSecreto.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -73,7 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AmigoSecreto.Web.bundle.scp.css"
     },
     {
@@ -81,15 +55,6 @@
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AmigoSecreto.Web.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\css\\site.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -103,17 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\favicon.ico",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\favicon.ico",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -127,16 +85,44 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\icons\\logo.svg",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\img\\Logo.svg",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "icons/logo.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\logo.svg"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\gradient.svg",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "img/gradient.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\gradient.svg"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\Logo.svg",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "img/Logo.svg",
       "AssetKind": "All",
@@ -150,11 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -168,209 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -384,17 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -408,17 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -432,17 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -456,17 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -480,17 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -504,17 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -528,17 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -552,17 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -576,17 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -600,17 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -624,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -648,17 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -672,17 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -696,17 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -720,17 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -744,17 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -768,17 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -792,17 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -816,17 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -840,17 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -864,17 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -888,17 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -912,17 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -936,17 +561,146 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -960,17 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -984,17 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1008,17 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1032,17 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1056,17 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1080,17 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1104,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1128,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1152,17 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1176,17 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1200,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1224,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1248,233 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
-      "BasePath": "_content/AmigoSecreto.Web",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1488,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1512,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AmigoSecreto.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "AmigoSecreto.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\",
->>>>>>> feda545c1bac0f98526cd7a900783276dd0aee89
       "BasePath": "_content/AmigoSecreto.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1534,6 +967,1179 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\css\\site.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\favicon.ico",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\js\\site.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/bootstrap/LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Microsoft.AspNetCore.Identity.UI",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\",
+      "BasePath": "Identity",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.14\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }

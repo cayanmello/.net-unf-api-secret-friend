@@ -1,57 +1,101 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - AmigoSecreto</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewData["Title"] - Amigo Secreto</title>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AmigoSecreto.Web.styles.css" asp-append-version="true" />
+    <link rel="shortcut icon" href="~/img/Logo.svg" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    @await RenderSectionAsync("Styles", required: false)
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid d-flex justify-content-between">
-
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="~/img/Logo.svg" width="120px"/>
-                </a>
-
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class="navbar-nav flex-grow-1 justify-content-end">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" disable="true" asp-controller="Home" asp-action="Pares">Lista de pares</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Ajuda">
-                                Ajuda
-                                
-                                </a>
-                        </li>
-                    </ul>
-                </div>
+    <header class="header container">
+        <div class="box-logo">
+            <a href="/">
+                <h2>Amigo<span>Secreto</span></h2>
+            </a>
+        </div>
+        <div class="box-links">
+            <i class="fa-solid fa-x" id="btnCloseMenu"></i>
+            <div class="links">
+                <h2>Menu</h2>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/participantes">Participates</a></li>
+                    <li><a href="/meu-amigo">Amigo Secreto</a></li>
+                    <li id="ticketLink"><a href="/ticket">Ticket</a></li>
+                    <li id="ticketBtn">
+                        <a href="/ticket">
+                            <button class="btn-primary btn-ticket">Ticket</button>
+                        </a>
+                    </li>
+                </ul>
             </div>
-        </nav>
+        </div>
+        <div class="box-botoes">
+            <partial name="_LoginPartial" />            
+        
+            <button class="nav-btn btn-menu" id="btnOpenMenu">
+                <i class="fa-solid fa-xl fa-bars"></i>
+            </button>
+        </div>
     </header>
+
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main" class="">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - AmigoSecreto.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="footer container">
+        <div class="wrapper resume">
+            <a href="/">
+                <img src="~/icons/logo.svg" alt="Logo do projeto">
+            </a>
+            <p>Projeto criado para por em prática alguns conhecimentos adquiridos na academia .NET ministrada pela Universidade Franciscana - UFN</p>
+        </div>
+        <div class="wrapper social">
+            <h3>Contato</h3>
+            <a href="/">
+                Instagram
+            </a>
+            <a href="/">
+                Linkedin
+            </a>
+            <a href="mailto:gmail@gmail.com">
+                E-mail
+            </a>
+            <a href="/">
+            GitHub
+            </a>
+        </div>
+        <div class="wrapper links">
+            <h3>Links Rápidos</h3>
+            <a href="/">Home</a>
+            @if(!User.Identity.IsAuthenticated)
+            {
+                <a href="/entrar">Entrar</a>
+                <a href="/registrar-se">Registra-se</a>
+            }
+            @if(User.Identity.IsAuthenticated)
+            {
+                <a href="/participantes">Participantes</a>
+                <a href="/meu-amigo-secreto">Meu amigo secreto</a>
+            }
+            <a href="/sobre">Sobre nos</a>
+        </div>
+        <div class="wrapper politicas">
+            <h3>Politicas</h3>
+            <a href="/termos-de-uso">Termos de Uso</a>
+            <a href="/cookies">Política de Cookies</a>
+            <a href="/privacidade">Política de privacidade</a>
+            <a href="/protecao-de-dados">Política de Proteção de Dados</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

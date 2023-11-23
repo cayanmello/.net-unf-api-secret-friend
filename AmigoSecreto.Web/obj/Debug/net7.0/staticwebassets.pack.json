@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\icons\\logo.svg",
+      "PackagePath": "staticwebassets\\icons\\logo.svg"
+    },
+    {
       "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\Logo.svg",
       "PackagePath": "staticwebassets\\img\\Logo.svg"
+    },
+    {
+      "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\gradient.svg",
+      "PackagePath": "staticwebassets\\img\\gradient.svg"
     },
     {
       "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
