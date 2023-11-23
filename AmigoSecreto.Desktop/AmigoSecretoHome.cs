@@ -2,6 +2,7 @@
 using AmigoSecreto.Desktop.ViewModels;
 using Newtonsoft.Json;
 using System.Net;
+using System.Reflection;
 
 namespace AmigoSecreto.Desktop
 {
@@ -20,12 +21,20 @@ namespace AmigoSecreto.Desktop
         }
         private async void AtualizarInformacoes()
         {
-            var response = await _apiHelper.GetAsync("/v1/buscar-todos");
-            amigos = JsonConvert.DeserializeObject<List<Amigo>>(response);
+            try
+            {
+                var response = await _apiHelper.GetAsync("/v1/buscar-todos");
+                amigos = JsonConvert.DeserializeObject<List<Amigo>>(response);
 
-            listaAmigosView.DataSource = null;
-            listaAmigosView.DataSource = amigos;
-            lblQuantidadeDeCadastrados.Text = amigos.Count().ToString();
+                listaAmigosView.DataSource = null;
+                listaAmigosView.DataSource = amigos;
+                lblQuantidadeDeCadastrados.Text = amigos.Count().ToString();
+
+            } catch
+            {
+                MessageBox.Show("A API está fora do ar. Contate um administrador", "Sistema fora do ar");
+            }
+
         }
 
         private void AmigoSecretoHome_Load(object sender, EventArgs e)
@@ -38,9 +47,16 @@ namespace AmigoSecreto.Desktop
             AtualizarInformacoes();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private async void button3_Click(object sender, EventArgs e)
         {
+            var result = await _apiHelper.PostAync("/v1/gerar-pares", new { flag = Configuration.GetApiFlag() });
 
+            if (result > 0)
+            {
+                AtualizarInformacoes();
+                inNome = null;
+                inEmail = null;
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -96,8 +112,8 @@ namespace AmigoSecreto.Desktop
                         .Show($"O amigo com e-mail {param} não foi encontrado.", "Não encontrado!");
 
                 AtualizarTabela(result);
-                return;                
-            }               
+                return;
+            }
 
             if (param.Contains("-"))
             {
@@ -105,7 +121,7 @@ namespace AmigoSecreto.Desktop
                 result = amigos
                     .Where(amg => amg.Id == Guid.Parse(param));
 
-                if(result is null)
+                if (result is null)
                 {
                     MessageBox.Show(@$"Amigo com id {param} não foi encontrado.", "Não Encontrado");
                     return;
@@ -113,7 +129,7 @@ namespace AmigoSecreto.Desktop
 
                 AtualizarTabela(result);
                 return;
-            }               
+            }
 
             else
                 result = amigos
@@ -128,7 +144,7 @@ namespace AmigoSecreto.Desktop
                     .Show($"Não foi encontrado nenhum amigo com o parâmetro fornecido!\n {param}", "Não encontrado!");
                 return;
             }
-            AtualizarTabela (result);
+            AtualizarTabela(result);
             return;
         }
         private void AtualizarTabela(IEnumerable<Amigo> amigos)
