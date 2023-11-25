@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lgJC9lxWPUMqbAQr18oiDPDf8vsjMyeKCj1X/QUSIiM=",
+  "Hash": "fj3UC9J9VaGMmfgz26hfRQBDh+kphb2zf6yxNmBaCYk=",
   "Source": "AmigoSecreto.Web",
   "BasePath": "_content/AmigoSecreto.Web",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AmigoSecreto.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\css\\home\\index.css",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "css/home/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home\\index.css"
     },
     {
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\css\\site.css",
@@ -134,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logo.svg"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\noel.svg",
+      "SourceId": "AmigoSecreto.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.Web",
+      "RelativePath": "img/noel.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\noel.svg"
     },
     {
       "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\js\\site.js",

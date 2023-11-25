@@ -31,7 +31,15 @@ namespace AmigoSecreto.Web.Controllers
 
             return View(homeModel);
         }
-
+        [HttpGet]
+        public IActionResult AmigoSecreto(){
+            return View();
+        }
+        [HttpGet]
+        public IActionResult Participantes()
+        {
+            return View("Participantes");
+        }
         public IActionResult Privacy()
         {
             return View();

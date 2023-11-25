@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AmigoSecreto.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\css\\home\\index.css",
+      "PackagePath": "staticwebassets\\css\\home\\index.css"
+    },
+    {
       "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\gradient.svg",
       "PackagePath": "staticwebassets\\img\\gradient.svg"
+    },
+    {
+      "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\img\\noel.svg",
+      "PackagePath": "staticwebassets\\img\\noel.svg"
     },
     {
       "Id": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
