@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "DhgDV4Ft+d360ybNN4BbBzs5Eka9P7AeCD/y85u/fSY=",
+  "Source": "AmigoSecreto.API",
+  "BasePath": "_content/AmigoSecreto.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AmigoSecreto.API\\wwwroot",
+      "Source": "AmigoSecreto.API",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.API\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.API\\wwwroot\\amigo.csv",
+      "SourceId": "AmigoSecreto.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.API\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.API",
+      "RelativePath": "amigo.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\amigo.csv"
+    },
+    {
+      "Identity": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.API\\wwwroot\\amigo-secreto.csv",
+      "SourceId": "AmigoSecreto.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\5.1 - Academia .NET\\AmigoSecreto.API\\wwwroot\\",
+      "BasePath": "_content/AmigoSecreto.API",
+      "RelativePath": "amigo-secreto.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\amigo-secreto.csv"
+    }
+  ]
+}
