@@ -31,16 +31,17 @@ namespace AmigoSecreto.Web.Controllers
 
             return View(homeModel);
         }
-        [HttpGet]
+        [HttpGet("amigo-secreto")]
         public IActionResult AmigoSecreto(){
             return View();
         }
-        [HttpGet]
+        [HttpGet("participantes")]
         public IActionResult Participantes()
         {
             return View("Participantes");
         }
-        public IActionResult Privacy()
+        [HttpGet("meu-amigo-secreto")]
+        public IActionResult Dupla()
         {
             return View();
         }
@@ -63,11 +64,11 @@ namespace AmigoSecreto.Web.Controllers
 
             var emailExiste = JsonConvert
                 .DeserializeObject<bool>(
-                await _api.GetAsync("/v1/email-existe/" + model.Email.Replace(";", "")));
+                await _api.GetAsync("/v1/email-existe/" + model?.Email?.Replace(";", "")));
 
             if (emailExiste)
             {
-                homeModel.Feedback = FeedbackModel.Create(Tipo.Info, $"PX43 - Erro ao registrar {model.Name}. O email informado já está em uso.");
+                homeModel.Feedback = FeedbackModel.Create(Tipo.Info, $"PX43 - Erro ao registrar {model?.Name}. O email informado já está em uso.");
                 return View("Index", homeModel);
             }
 
@@ -75,7 +76,7 @@ namespace AmigoSecreto.Web.Controllers
 
             if (result)
             {
-                homeModel.Feedback = FeedbackModel.Create(Tipo.Success, $"{model.Name} foi cadastrado com sucesso.");
+                homeModel.Feedback = FeedbackModel.Create(Tipo.Success, $"{model?.Name} foi cadastrado com sucesso.");
                 return RedirectToAction("Index", homeModel);
 
             }
