@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/home/index.css" asp-append-version="true">
+}
+<main class="home-main">
+    <section class="hero-section">
+        <h1>Descubra o Amigo Secreto Ideal <br>para o Natal</h1>
+        <p>Transforme o Natal em uma experiência única ao encontrar o amigo secreto perfeito para trocar presentes inesquecíveis e celebrar com alegria e fraternidade.</p>
+        @if(User.Identity.IsAuthenticated) {
+            <button class="btn-primary">Participar <i class="fa-solid fa-gift"></i></button>
+        } else {
+            <button class="btn-primary">Registrar-se <i class="fa-solid fa-gift"></i></button>
+        }
+    </section>
+    <section class="hero-img">
+        <img src="https://mega.ibxk.com.br/2016/12/19/19111639574064.gif" alt="Foto do papai noel">
+    </section>
+    
+</main>
