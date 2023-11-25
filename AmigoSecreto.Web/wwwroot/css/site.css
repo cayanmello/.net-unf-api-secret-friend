@@ -4,7 +4,7 @@
   --black-100: #000;
   --white: #fff;
   --action-color: #00873E ;
-  --action-secondary : #00873fe1;
+  --action-secondary : #00ad4f;
   --background-secondary: #d;
  }
 /** Reset css**/
@@ -384,7 +384,13 @@ button:hover {
 @media (min-width: 1200px) {
   .container {
     padding: 0 15rem 2rem 15rem;
-  }  
+  } 
+  .footer {
+    position: fixed;
+    bottom: 0;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: start;
+  } 
 }
 @media (min-width: 1400px) {
   .container {

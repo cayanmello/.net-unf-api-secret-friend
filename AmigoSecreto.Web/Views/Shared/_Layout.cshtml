@@ -17,14 +17,17 @@
                 <h2>Amigo<span>Secreto</span></h2>
             </a>
         </div>
-        <div class="box-links">
+        <div class="box-links" style="display: none;">
             <i class="fa-solid fa-x" id="btnCloseMenu"></i>
             <div class="links">
                 <h2>Menu</h2>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/participantes">Participates</a></li>
-                    <li><a href="/meu-amigo">Amigo Secreto</a></li>
+                    @if(User.Identity.IsAuthenticated)
+                    {
+                        <li><a href="/participantes">Participates</a></li>
+                        <li><a href="/amigo-secreto">Amigo Secreto</a></li>
+                    }
                     <li id="ticketLink"><a href="/ticket">Ticket</a></li>
                     <li id="ticketBtn">
                         <a href="/ticket">
