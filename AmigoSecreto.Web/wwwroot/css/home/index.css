@@ -5,7 +5,20 @@ h3,
 h4 {
     font-family: Roboto;
 }
-
+body,
+html {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    display: flex;
+    height: 100%;
+    margin-top: 5rem;
+}
+.footer {
+    position: relative!important;
+}
 .home-main {
     display: grid;
     grid-template-columns: 1fr;
@@ -39,16 +52,16 @@ h4 {
 .hero-section .btn-primary:hover {
     background: var(--action-secondary);
 }
-@media (min-width: 550px) {
 
-}
 @media (min-width: 768px) {
     .home-main {
         grid-template-columns: 1fr 1fr;
-    }
- 
+    } 
 }
-@media (min-width: 960px) {
+@media (max-width: 960px) {
+    .content {
+        margin-top: 3rem;
+    }
 }
 @media (min-width: 1200px) {
 

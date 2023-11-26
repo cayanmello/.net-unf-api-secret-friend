@@ -11,7 +11,9 @@
         @if(User.Identity.IsAuthenticated) {
             <button class="btn-primary">Participar <i class="fa-solid fa-gift"></i></button>
         } else {
-            <button class="btn-primary">Registrar-se <i class="fa-solid fa-gift"></i></button>
+            <a href="/Identity/Account/Register">
+                <button class="btn-primary">Registrar-se <i class="fa-solid fa-gift"></i></button>
+            </a>
         }
     </section>
     <section class="hero-img">

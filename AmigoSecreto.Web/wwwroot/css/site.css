@@ -6,6 +6,7 @@
   --action-color: #00873E ;
   --action-secondary : #00ad4f;
   --background-secondary: #d;
+  --black-50: rgba(0, 0, 0, 0.6);
  }
 /** Reset css**/
 body,
@@ -21,12 +22,12 @@ dt,
 dd {
     margin: 0;
     padding: 0;
+    font-family: Roboto;
 }
 
 body {
-  background-image: url('/img/gradient.svg');
+  background: url(/img/gradient.svg) center bottom no-repeat fixed;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 a {
     text-decoration: none;
@@ -387,8 +388,6 @@ button:hover {
     padding: 0 15rem 2rem 15rem;
   } 
   .footer {
-    position: fixed;
-    bottom: 0;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-items: start;
   } 
