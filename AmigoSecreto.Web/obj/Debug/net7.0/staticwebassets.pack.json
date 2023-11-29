@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\AmigoSecreto.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\css\\home\\dupla.css",
+      "PackagePath": "staticwebassets\\css\\home\\dupla.css"
+    },
+    {
       "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\css\\home\\index.css",
       "PackagePath": "staticwebassets\\css\\home\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\css\\home\\participantes.css",
+      "PackagePath": "staticwebassets\\css\\home\\participantes.css"
     },
     {
       "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\css\\site.css",
@@ -31,6 +39,10 @@
     {
       "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\img\\noel.svg",
       "PackagePath": "staticwebassets\\img\\noel.svg"
+    },
+    {
+      "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\img\\presentesvg.svg",
+      "PackagePath": "staticwebassets\\img\\presentesvg.svg"
     },
     {
       "Id": "C:\\Users\\cayan\\OneDrive\\Documentos\\Academia.NET\\.net-unf-api-secret-friend\\AmigoSecreto.Web\\wwwroot\\js\\site.js",
