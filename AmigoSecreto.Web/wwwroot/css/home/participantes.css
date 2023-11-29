@@ -1,0 +1,50 @@
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: black;
+  margin-bottom: 50px;
+}
+
+.participantes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.tabelas {
+  font-size: 20px;
+}
+
+/* .participantes__lista__item__nome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.participantes__lista__item__email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 25px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} */

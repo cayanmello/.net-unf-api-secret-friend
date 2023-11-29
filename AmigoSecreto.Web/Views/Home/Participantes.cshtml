@@ -1,4 +1,44 @@
 @{
     ViewData["Title"] = "Participantes";
 }
-<h1>Tela que terá a lista com os participantes</h1>
+@section Styles {
+    <link rel="stylesheet" href="css/home/participantes.css" asp-asp-append-version="true">
+}
+
+
+<section class="titulo">
+    <h1>
+        Lista de Participantes
+    </h1>
+</section>
+
+<section class="participantes">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table participantes__lista">
+                    <thead>
+                        <tr class="tabelas">
+                            <th>Nome</th>
+                            <th>Email</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="participantes__lista__item">
+                            <td class="participantes__lista__item__nome">
+                                <h3>Cayan</h3>
+                            </td>
+                            <td class="participantes__lista__item__email">
+                                <h3>cayanneves@gmail.com</h3>
+                            </td>
+                            <td class="participantes__lista__item__excluir">
+                                <button class="btn btn-danger">Excluir</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
