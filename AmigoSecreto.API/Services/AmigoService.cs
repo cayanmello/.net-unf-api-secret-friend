@@ -14,13 +14,13 @@ public class AmigoService : IAmigoService
         => _dao.Delete(id);
 
     public IEnumerable<Amigo> GetAll()
-        => _dao.GetAll();
+        => _dao.GetAllFromAzureBlobAsync();
 
     public Amigo GetById(string id)
         =>  _dao.GetById(id);
 
     public bool Save(Amigo amigo)
-        => _dao.Save(amigo);
+        => _dao.SaveInAzureBlob(amigo);
 
     public bool Update(Amigo amigo)
     {

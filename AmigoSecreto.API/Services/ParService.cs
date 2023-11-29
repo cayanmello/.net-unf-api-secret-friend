@@ -6,6 +6,7 @@ namespace AmigoSecreto.API.Services;
 
 public class ParService : IParService
 {
+    #region [ Constructors ]
     private readonly IParDAO _dao;
     private readonly IAmigoService _amigoService;
 
@@ -14,21 +15,24 @@ public class ParService : IParService
         _dao = dao;
         _amigoService = amigoService;
     }
+    #endregion
 
     public bool GerarPares()
     {
         var paresCount = _amigoService.GetAll().Count();
 
-        if((paresCount % 2 != 0) && (paresCount < 4))
+        if ((paresCount % 2) != 0)
             return false;
 
-        _dao.GerarPares();
-        return true;
+        if (paresCount < 4)
+            return false;
+
+        return _dao.GerarParesFromAzureBlob();
     }
 
     public IEnumerable<Par> GetAll()
-        => _dao.GetAll();    
+        => _dao.GetAllFromAzureBlob();
 
     public Par GetById(Guid id)
-        => _dao.GetById(id);
+        => _dao.GetByIdFromAzureBlob(id);
 }

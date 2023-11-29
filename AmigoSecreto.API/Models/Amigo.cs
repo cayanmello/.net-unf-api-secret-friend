@@ -36,6 +36,9 @@
         
         public bool IsValid()
             => (Name is not null) && (Email is not null);
+
+        public string FormatarRegistradoEm()
+            => RegistradoEm?.ToString("dd/MM/yyyy HH:mm:ss");
         
     }
 }
